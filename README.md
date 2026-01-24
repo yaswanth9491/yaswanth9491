@@ -34,7 +34,7 @@ I enjoy solving real-world problems using data and building scalable, interpreta
 ### 📊 Data Visualization
 - Matplotlib
 - Seaborn
-- Power BI / Tableau (if applicable)
+- Power BI / Tableau
 - Business-focused dashboards & reports
 
 ### 🤖 Machine Learning
