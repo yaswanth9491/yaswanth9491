@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yaswanth Mullagura
 
-📊 **Data Analyst at Two Hungry Boys Ltd**  
+📊 **Data Analyst at Restaurant Solutions Ltd**  
 🤖 Passionate about **Data Analysis, Machine Learning, and Applied AI**  
 📍 Working at the intersection of business insights and intelligent systems
 
